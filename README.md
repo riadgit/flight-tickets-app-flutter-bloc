@@ -2,7 +2,6 @@
 
 A Flight Tickets App with Flutter, BLoC Pattern, Firebase Database.
 
-*This project uses Dart 2*
 
 ## Screenshots
 <table style={border:"none"}><tr>
