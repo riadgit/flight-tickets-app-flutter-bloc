@@ -2,7 +2,7 @@
 
 A Flight Tickets App with Flutter, BLoC Pattern, Firebase Database.
 
-As this is a fluuter app, This app can be exported to both Android and IOS.
+As this is a flutter app, This app can be exported to both Android and IOS.
 
 ## Screenshots
 <table style={border:"none"}><tr>
