@@ -1,4 +1,4 @@
-# Llight tickets app Flutter
+# Flight tickets app with Flutter
 
 A Flight Tickets App with Flutter, BLoC Pattern, Firebase Database.
 
